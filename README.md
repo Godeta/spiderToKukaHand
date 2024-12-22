@@ -41,7 +41,8 @@ Watch the project in action:
 - 🎥 **Video Demo:** `demo_SpiderRobot.mp4`  
 ![Spider Robot Demo](spiderbot.gif)  
 
-
+Making Of before the project is complete : 
+![making of](makingOf.gif)  
 ---
 
 ## **Credits**  
